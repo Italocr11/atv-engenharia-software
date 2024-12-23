@@ -16,6 +16,6 @@ Propósito: Lidar com a comunicação entre objetos e a atribuição de responsa
 
 Padrão usado: Observer.
 
-## Referências - 
+## Referências 
 
 [Refactoring Guru - Design Patterns](https://refactoring.guru/pt-br/design-patterns)
