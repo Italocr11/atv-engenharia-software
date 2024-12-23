@@ -6,14 +6,16 @@ Propósito: Lidar com a criação de objetos, garantindo que eles sejam criados 
 
 Padrão usado: Singleton.
 
-# Padrões Estruturais:
+# Padrões Estruturais
 Propósito: Lidar com a composição de classes e objetos para formar estruturas maiores.
 
 Padrão usado: Adapter.
 
-# Padrões Comportamentais:
+# Padrões Comportamentais
 Propósito: Lidar com a comunicação entre objetos e a atribuição de responsabilidades.
 
 Padrão usado: Observer.
 
-## Referências - [Refactoring Guru - Design Patterns](https://refactoring.guru/pt-br/design-patterns)
+## Referências - 
+
+[Refactoring Guru - Design Patterns](https://refactoring.guru/pt-br/design-patterns)
