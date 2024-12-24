@@ -10,4 +10,4 @@ Controle o acesso a um recurso compartilhado, garantindo que apenas uma instânc
 Implemente um método que crie uma nova instância da classe, se ainda não existir, ou retorne a instância existente se já tiver sido criada.
 
 ## Diagrama UML
-![image](https://github.com/user-attachments/assets/8d5af5c6-b83d-4915-a704-add2b6d0d518)
+![singletonUml](https://github.com/user-attachments/assets/a96407d0-f1df-4159-ab99-16e5c7a0f753)
