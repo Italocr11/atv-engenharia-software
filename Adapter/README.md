@@ -11,5 +11,4 @@ Crie um adaptador que converte a interface de uma classe em uma interface espera
 
 ## Diagrama UML
 
-![image](https://github.com/user-attachments/assets/192f6406-c921-44a5-8fb7-1c4a476389da)
-
+![adapterUml](https://github.com/user-attachments/assets/60726200-b065-4ce6-b908-ad547609bfb0)
