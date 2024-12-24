@@ -10,4 +10,4 @@ Quando um objeto precisa informar outros objetos sobre mudanças em seu estado e
 Defina uma dependência um-para-muitos entre objetos, de forma que quando um objeto muda de estado, todos os seus dependentes sejam notificados e atualizados automaticamente.
 
 ## Diagrama UML
-![image](https://github.com/user-attachments/assets/509f18b6-c5b4-48d5-b37f-84a7ea405166)
+![observerUml](https://github.com/user-attachments/assets/6e292858-ad7b-43af-8184-0f50b47ceb93)
